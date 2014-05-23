@@ -101,3 +101,5 @@ SET search_path TO "$user",public;
 
 INSERT INTO schema_migrations (version) VALUES ('20140523005955');
 
+INSERT INTO schema_migrations (version) VALUES ('20140523011837');
+
